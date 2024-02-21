@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "prisma": "^5.10.1"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.10.1",
+    "@prisma/extension-accelerate": "^0.6.3"
+  }
+}
