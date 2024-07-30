@@ -2,7 +2,7 @@ Here's a template for a README file for your Discord clone project. You can cust
 
 ---
 
-# Discord Clone
+# Chat-Sphere
 
 This is a Discord clone built using Next.js, Supabase, Clerk for authentication, and Prisma for database management. The application is deployed on Railway for hosting.
 
@@ -38,8 +38,8 @@ This is a Discord clone built using Next.js, Supabase, Clerk for authentication,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/discord-clone.git
-   cd discord-clone
+   git clone https://github.com/shabiul/Chat-Sphere.git
+   cd Chat-Sphere
    ```
 
 2. Install dependencies:
