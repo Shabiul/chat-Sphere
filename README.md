@@ -1,4 +1,4 @@
-Here's a template for a README file for your Discord clone project. You can customize it as needed to fit the specifics of your project.
+
 
 ---
 
